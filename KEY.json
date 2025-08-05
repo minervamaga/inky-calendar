@@ -1,1 +1,13 @@
-{"calendar_id": "minervamaga@gmail.com"}
+{
+  "calendar_id": "minervamaga@gmail.com"
+  "type": "service_account",
+  "project_id": "inky-calendar-468121",
+  "private_key_id": "3d218cbfae0ec89829052fe8fc1d5a38907c324b",
+  "client_email": "inky-calendar-service@inky-calendar-468121.iam.gserviceaccount.com",
+  "client_id": "117541848230678186644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inky-calendar-service%40inky-calendar-468121.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
